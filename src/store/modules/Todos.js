@@ -21,6 +21,7 @@ const actions = {
             {
                 title,
                 completed: false
+                
             }
         )
         console.log(res.data)
